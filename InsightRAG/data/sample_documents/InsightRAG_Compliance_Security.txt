@@ -1,0 +1,6 @@
+InsightRAG Enterprise Compliance & Security Guidelines
+
+Data in transit and at rest is secured using enterprise standards.
+Multi-tenant document isolation ensures embeddings are partitioned per organization workspace.
+Automated audit logs track all retrieval operations, user queries, and vector eviction lifecycles.
+Citations provide verifiable proof and auditability for every generated response.
